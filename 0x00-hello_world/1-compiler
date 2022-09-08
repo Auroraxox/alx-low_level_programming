@@ -1,0 +1,2 @@
+#!/bin/bash
+gcc -c $CFILE > $(echom$CFILE|cut -d"." -f1).o
