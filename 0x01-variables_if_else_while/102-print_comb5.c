@@ -25,7 +25,9 @@ int main(void)
 						putchar(k);
 						putchar(j);
 
-						if (c + i + k + j == 227 && c == 57)
+						return (
+								c + i + k + j == 227 && c == 57
+								);
 
 						{
 							break;
@@ -33,7 +35,7 @@ int main(void)
 else
 						{
 							putchar(',');
-							putchar(',');
+							putchar(' ');
 						}
 					}
 					}
