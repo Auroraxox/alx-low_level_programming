@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- * main - entry point
- * Description: print "and that piece of art is useful......"
+ * main - prints to string
+ * Description: prints "and that piece of art is useful.." without puts
  * Return: 1
  */
 
