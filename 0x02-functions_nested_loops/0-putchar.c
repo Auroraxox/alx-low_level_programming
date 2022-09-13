@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * main - entry point
- * Description: print '_putchar\n'
+ * main - print _putchar as a message.
+ *
  * Return: 0
  */
 int main(void)
